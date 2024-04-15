@@ -4,8 +4,7 @@ Ce site permet de comprendre les mécanismes de déploiement d'un site web et d'
 
 ## Comment l'utiliser sans docker?
 
-Installer Node.js et npm sur votre système : https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
-zzzzjjjddsss
+Installer Node.js et npm sur votre système : https://docs.npmjs.com/downloading-and-installing-node-js-and-npzzzzjjjddsss
 A la racine de ce projet, lancer la commande : "npm run start"
 
 Le site devrait être accessible depuis votre localhost sur le port 8000
